@@ -12,5 +12,3 @@ In this project, I used a NBA dataset from the 2007-2021 seasons to do explorato
 ## Challenges and improvements:
 • This project's purpose is an opportunity for me to learn Pandas and Matplotlib so I did face challenges in familiarizing myself with the functions each library offer.
 • For future improvemens, I aim to explore even more functions each tool offers, especially using Matplotlib to create better visuals.
-
-## Test
